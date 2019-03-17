@@ -3,6 +3,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("dadasd by xux and doom");
+        System.out.println("dadasd by xux and zhangsan");
     }
 }
